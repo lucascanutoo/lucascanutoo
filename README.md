@@ -22,4 +22,4 @@ Matplotlib, Seaborn, Power BI
 Git/GitHub, Docker
 ##
 ###  Desenvolvimento Web: 
-Node.js, HTML, CSS, Spring Boot
+Flask, Node.js, HTML, CSS, Spring Boot
