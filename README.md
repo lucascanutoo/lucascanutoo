@@ -6,8 +6,21 @@
   </a>
 </p>
 
-<div>
-  <a href="https://beacons.ai/lucascanutoo">
-  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=lucascanutoo&show_icons=true&theme=dracula"/>
-  <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascanutoo&layout=compact&theme=dracula"/>
-</div>
+### Linguagens de Programação: 
+Python, Java, JavaScript, SQL
+##
+
+###  Machine Learning & Data Science: 
+Pandas, NumPy, Scikit-learn, TensorFlow, Keras
+##
+###  Banco de Dados: 
+MongoDB, MySQL
+##
+###  Visualização de Dados: 
+Matplotlib, Seaborn, Power BI
+##
+###  Ferramentas e Versionamento: 
+Git/GitHub, Docker
+##
+###  Desenvolvimento Web: 
+Node.js, HTML, CSS, Spring Boot
