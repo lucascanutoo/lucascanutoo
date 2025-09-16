@@ -7,6 +7,7 @@
 </p>
 
 <div>
+  <a href="https://beacons.ai/lucascanutoo">
   <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=lucascanutoo&show_icons=true&theme=dracula"/>
   <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascanutoo&layout=compact&theme=dracula"/>
 </div>
