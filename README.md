@@ -1,7 +1,7 @@
 ## Data Science, Machine Learning & IA
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lucascanutoo/" target=_blank>
+  <a href="https://www.linkedin.com/in/lucascanutoo/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
 </p>
