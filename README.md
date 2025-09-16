@@ -6,7 +6,7 @@
   </a>
 </p>
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?lucascanutoo=seu-user&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lucascanutoo=seu-user&layout=compact&theme=dracula)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascanutoo_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascanutoo=compact&theme=dracula)
 
 📫 Entre em contato: [Email](lucascanuto.contato@gmail.com)
