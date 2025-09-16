@@ -9,7 +9,6 @@
 ### Linguagens de Programação: 
 Python, Java, JavaScript, SQL
 ##
-
 ###  Machine Learning & Data Science: 
 Pandas, NumPy, Scikit-learn, TensorFlow, Keras
 ##
