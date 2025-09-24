@@ -7,19 +7,24 @@
 </p>
 
 ### Linguagens de Programação: 
-Python, Java, JavaScript, SQL
+-Python, Java, JavaScript e SQL
 ##
 ###  Machine Learning & Data Science: 
-Pandas, NumPy, Scikit-learn, TensorFlow, Keras
+-Experiência com análise e modelagem de dados usando Pandas, NumPy, Scikit-learn, TensorFlow e
+Keras
+-Criação de dashboards interativos em Streamlit, Power BI e ECharts
 ##
 ###  Banco de Dados: 
-MongoDB, MySQL
+-Relacionais: MySQL e PostgreSQL
+-Não-relacional: MongoDB
 ##
 ###  Visualização de Dados: 
-Matplotlib, Seaborn, Power BI
+-Matplotlib, Seaborn, Power BI, ECharts e Streamlit
 ##
-###  Ferramentas e Versionamento: 
-Git/GitHub, Docker
+###  DevOps & Ferramentas:
+Docker, Git/GitHub e versionamento de código
 ##
 ###  Desenvolvimento Web: 
-Flask, Node.js, HTML, CSS, Spring Boot
+-Back-end: Flask, Node.js (Express) e Spring Boot
+-Front-end: HTML, CSS e EJS
+-Integração de APIs e desenvolvimento de aplicações web dinâmicas
