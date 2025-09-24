@@ -12,10 +12,12 @@
 ###  Machine Learning & Data Science: 
 -Experiência com análise e modelagem de dados usando Pandas, NumPy, Scikit-learn, TensorFlow e
 Keras
+
 -Criação de dashboards interativos em Streamlit, Power BI e ECharts
 ##
 ###  Banco de Dados: 
 -Relacionais: MySQL e PostgreSQL
+
 -Não-relacional: MongoDB
 ##
 ###  Visualização de Dados: 
@@ -26,5 +28,7 @@ Docker, Git/GitHub e versionamento de código
 ##
 ###  Desenvolvimento Web: 
 -Back-end: Flask, Node.js (Express) e Spring Boot
+
 -Front-end: HTML, CSS e EJS
+
 -Integração de APIs e desenvolvimento de aplicações web dinâmicas
