@@ -24,7 +24,7 @@ Keras
 -Matplotlib, Seaborn, Power BI, ECharts e Streamlit
 ##
 ###  DevOps & Ferramentas:
-Docker, Git/GitHub e versionamento de código
+-Docker, Git/GitHub e versionamento de código
 ##
 ###  Desenvolvimento Web: 
 -Back-end: Flask, Node.js (Express) e Spring Boot
